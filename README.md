@@ -8,7 +8,7 @@ My skills include:
 
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/C.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/python.png)
-![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/php.jpg)
+![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/php.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/mysql.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/javascript.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/wordpress.png)
