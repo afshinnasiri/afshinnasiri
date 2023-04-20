@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/profile.png)  
+![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/p.jpg)  
 
 ### Hi there 👋 I'm Afshin Nasiri,welcome to my Github!
 - I'm an Avionics & Aerospace engineer ✈️ 
