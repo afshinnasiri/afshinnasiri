@@ -19,6 +19,7 @@ My skills include:
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/micro.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/Raspberry_Pi.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/linux.png)
+![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/uiux.png)
 
 
 
