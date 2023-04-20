@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/profile.png)  
+
 ### Hi there 👋 I'm Afshin Nasiri,welcome to my Github!
 - I'm an Avionics & Aerospace engineer ✈️ 
 - I'm an Electronic & Control engineer. 📟
