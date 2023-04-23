@@ -14,6 +14,7 @@
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/mysql.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/javascript.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/wordpress.png)
+![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/laravel.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/electronic.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/altium.png)
 ![alt text](https://raw.githubusercontent.com/afshinnasiri/afshinnasiri/main/img/micro.png)
