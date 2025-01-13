@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Afshin Nasiri,welcome to my Github!
 - I'm an Avionics & Aerospace engineer ✈️ 
 - I'm an Electronic & Control engineer. 📟
-- I'm 10 years wordpress and web developer (front-end and back-end developer). 💻
+- I'v been wordpress and web developer for +10 years (front-end and back-end developer). 💻
 - I’m interested in optimizing systems، automation، smart electric and IOT.🔌
 
 **✨ My skills include:**  
